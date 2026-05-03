@@ -1,4 +1,3 @@
-# 7.5example
 
 This is an example repo of pushing local files from
 your machine to github.
